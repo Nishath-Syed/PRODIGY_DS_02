@@ -6,7 +6,7 @@ This repository contains a comprehensive analysis of the Titanic dataset, focusi
 
 ## Dataset
 
-The dataset used for this analysis is the Titanic dataset, which is publicly available on [Kaggle](https://www.kaggle.com/c/titanic/data). It contains data about the passengers on board the Titanic, including demographic and travel information, as well as whether each passenger survived the tragedy.
+The dataset used for this analysis is the Titanic dataset. It contains data about the passengers on board the Titanic, including demographic and travel information, as well as whether each passenger survived the tragedy.
 
 ## Task Description
 
